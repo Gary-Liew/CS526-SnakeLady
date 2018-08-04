@@ -1,0 +1,92 @@
+{ 
+	  "monk1": [
+			  {
+					  "x": -5.62,
+            "y": -1.53,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+          {
+					  "x": 5.03,
+            "y": 3.44,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": -2.06,
+            "y": 1.78,
+            "scaleX": 1,
+            "scaleY": 1
+				}
+		],
+    "monk_walkingpu": [
+
+        {
+            "x": 5.47,
+            "y": 1.49,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+	  "monk_walkingpuu": [
+			
+        {
+            "x": -3.47,
+            "y": -3.34,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+	  "monk_chasing": [
+        {
+            "x": 4.54,
+            "y": -3.63,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+        }
+    ],
+	"boss_send_monk": [
+	
+		 {
+					  "x": -5.62,
+            "y": -1.53,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+          {
+					  "x": 5.03,
+            "y": 3.44,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": -2.06,
+            "y": 1.78,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+
+
+        {
+            "x": 5.47,
+            "y": 1.49,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+		     {
+            "x": -3.47,
+            "y": -3.34,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+
+		      {
+            "x": 4.54,
+            "y": -3.63,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+        }
+
+
+		] 
+}

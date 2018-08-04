@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Snake_head.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoardManager.cs" Line="83" Column="16" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="42" Column="3" />
+      <File FileName="Assets/Scripts/Snake_head.cs" Line="345" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/haoyinghui/Documents/526/LadySnake-2.0/Assets/Scripts/Snake_head.cs" line="340" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

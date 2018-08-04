@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 0fc987c101a664cdc9872c697bce1182
+timeCreated: 1511025646
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fahai_defense_0
+    21300002: fahai_defense_1
+    21300004: fahai_defense_2
+    21300006: fahai_defense_3
+    21300008: fahai_defense_4
+    21300010: fahai_defense_5
+    21300012: fahai_defense_6
+    21300014: fahai_defense_7
+    21300016: fahai_defense_8
+    21300018: fahai_defense_9
+    21300020: fahai_defense_10
+    21300022: fahai_defense_11
+    21300024: fahai_defense_12
+    21300026: fahai_defense_13
+    21300028: fahai_defense_14
+    21300030: fahai_defense_15
+    21300032: fahai_defense_16
+    21300034: fahai_defense_17
+    21300036: fahai_defense_18
+    21300038: fahai_defense_19
+    21300040: fahai_defense_20
+    21300042: fahai_defense_21
+    21300044: fahai_defense_22
+    21300046: fahai_defense_23
+    21300048: fahai_defense_24
+    21300050: fahai_defense_25
+    21300052: fahai_defense_26
+    21300054: fahai_defense_27
+    21300056: fahai_defense_28
+    21300058: fahai_defense_29
+    21300060: fahai_defense_30
+    21300062: fahai_defense_31
+    21300064: fahai_defense_32
+    21300066: fahai_defense_33
+    21300068: fahai_defense_34
+    21300070: fahai_defense_35
+    21300072: fahai_defense_36
+    21300074: fahai_defense_37
+    21300076: fahai_defense_38
+    21300078: fahai_defense_39
+    21300080: fahai_defense_40
+    21300082: fahai_defense_41
+    21300084: fahai_defense_42
+    21300086: fahai_defense_43
+    21300088: fahai_defense_44
+    21300090: fahai_defense_45
+    21300092: fahai_defense_46
+    21300094: fahai_defense_47
+    21300096: fahai_defense_48
+    21300098: fahai_defense_49
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fahai_defense_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1280.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 640.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 320.8
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fahai_defense_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0.7999878
+        width: 240
+        height: 320.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

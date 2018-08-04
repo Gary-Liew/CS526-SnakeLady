@@ -1,0 +1,123 @@
+{ 
+	  "monk1": [
+			  {
+					  "x": -9.43,
+            "y": 3.11,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+          {
+					  "x": 9.74,
+            "y": 2.81,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": 9.77,
+            "y": -3.53,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": -2.65,
+            "y": -1.07,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": -8.11,
+            "y": -0.02,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": 3.36,
+            "y": -1.5,
+            "scaleX": 1,
+            "scaleY": 1
+				}
+		],
+    "monk_walkingpoo": [
+
+        {
+            "x": -9.98,
+            "y": -1.39,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+	  "monk_walkingpo": [
+			
+        {
+            "x": 0.53,
+            "y": -2.94,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+	  "monk_chasing": [
+        {
+            "x": 2.21,
+            "y": -0.25,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+        }
+    ],
+	"boss_send_monk":[
+	  {
+					  "x": -9.43,
+            "y": 3.11,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+          {
+					  "x": 9.74,
+            "y": 2.81,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": 9.77,
+            "y": -3.53,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": -2.65,
+            "y": -1.07,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": -8.11,
+            "y": -0.02,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+			    {
+					  "x": 3.36,
+            "y": -1.5,
+            "scaleX": 1,
+            "scaleY": 1
+				},
+
+		 {
+            "x": -9.98,
+            "y": -1.39,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+		 {
+            "x": 0.53,
+            "y": -2.94,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+		       {
+            "x": 2.21,
+            "y": -0.25,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+        }
+		]  
+}

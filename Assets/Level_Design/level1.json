@@ -1,0 +1,108 @@
+{
+    
+	  "monk_skeleton": [
+			  {
+					  "x": -8.3,
+            "y": -2.2,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+				},
+			  {
+					  "x": 7.32,
+            "y": -3.42,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+				}
+		],
+    "level3_tree": [
+
+        {
+            "x": -8.2,
+            "y": 4.1,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+        {
+            "x": -6.9,
+            "y": -4.1,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+        {
+            "x": 10,
+            "y": -2.8,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+    "oxBody": [
+        {
+            "x": 0,
+            "y": 2,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+	  "tombstone": [
+        {
+            "x": -7.5,
+            "y": 3.5,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+        {
+            "x": -10,
+            "y": -3.5,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+        {
+            "x": -9.5,
+            "y": -3.7,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+          {
+            "x": 9.5,
+            "y": -4,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+        {
+            "x": -8.8,
+            "y": -3.5,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+    "oxHead": [
+        {
+            "x": 8.6,
+            "y": 3.8,
+            "scaleX": 1,
+            "scaleY": 1
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+    "monk_bat": [
+        {
+            "x": 4,
+            "y": 0,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ],
+	  "monk_batc": [
+        {
+            "x": -9,
+            "y": -4,
+            "scaleX": 1,
+            "scaleY": 1
+        }
+    ]
+}

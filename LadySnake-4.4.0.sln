@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LadySnake-4.4.0", "Assembly-CSharp.csproj", "{31A18A64-F0F5-4F0C-DC13-58191F0F17E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LadySnake-4.4.0", "Assembly-CSharp-Editor.csproj", "{DC609A5A-F6FE-E66E-9635-7D38311DD0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A18A64-F0F5-4F0C-DC13-58191F0F17E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A18A64-F0F5-4F0C-DC13-58191F0F17E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A18A64-F0F5-4F0C-DC13-58191F0F17E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A18A64-F0F5-4F0C-DC13-58191F0F17E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC609A5A-F6FE-E66E-9635-7D38311DD0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC609A5A-F6FE-E66E-9635-7D38311DD0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC609A5A-F6FE-E66E-9635-7D38311DD0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC609A5A-F6FE-E66E-9635-7D38311DD0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

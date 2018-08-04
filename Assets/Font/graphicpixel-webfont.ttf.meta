@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1bb457a6bfd04d2087a14e85d97de28
+timeCreated: 1509644972
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GraphicPixel
+  fontNames:
+  - GraphicPixel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

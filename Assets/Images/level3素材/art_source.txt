@@ -1,0 +1,13 @@
+Most is from https://github.com/mozilla/BrowserQuest
+
+2. bomb
+An explosion based on a blood effect from teqq-princess-image-materials.
+
+Includes GIMP XCF that shows the method used to changed color.
+
+Made for a request for Bombs with explosion animations on the IRC channel for http://lpc.opengameart.org/.
+
+Attribution Instructions: 
+Blood _ Copyright 2011 by shimobayashi <http://opengameart.org/content/teqq-princess-image-materials> Color edit to look like explosion Copyright 2012 by qubodup <http://opengameart.org/users/qubodup> License: CCBY3 or later <http://creativecommons.org/licenses/by/3.0/>
+
+3.

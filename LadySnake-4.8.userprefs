@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MonkChaseing.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Snake_head.cs" Line="295" Column="45" />
+      <File FileName="Assets/Dialog/dialog1.txt" Line="8" Column="3" />
+      <File FileName="Assets/Dialog/dialog3.txt" Line="4" Column="3" />
+      <File FileName="Assets/Dialog/dialog2.txt" Line="6" Column="3" />
+      <File FileName="Assets/Dialog/dialog4.txt" Line="4" Column="18" />
+      <File FileName="Assets/Scripts/boss.cs" Line="24" Column="24" />
+      <File FileName="Assets/Scripts/MonkChaseing.cs" Line="54" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
